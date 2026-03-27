@@ -26,7 +26,7 @@
 		<dependency>
 			<groupId>org.mineacademy</groupId>
 			<artifactId>foundation-bukkit</artifactId>
-			<version>LATEST</version>
+			<version>6.9.23</version>
 			<scope>compile</scope>
 		</dependency>
 
